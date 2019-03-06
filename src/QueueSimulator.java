@@ -26,9 +26,11 @@ public class QueueSimulator {
     }
 
     public double calcAverageWaitingTime() {
+        return 1;
     }
 
     public double runSimulation() {
+        return 1;
     }
 }
 

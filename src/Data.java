@@ -3,16 +3,16 @@ public class Data {
     private double departureTime;
 
     public Data() {
-        arrivalTime=0;
-        departureTime=0;
+        arrivalTime = 0;
+        departureTime = 0;
     }
 
     public void setArrivalTime(double a) {
-        arrivalTime=a;
+        arrivalTime = a;
     }
 
     public void setDepartureTime(double d) {
-        departureTime=d;
+        departureTime = d;
     }
 
     public double getDepartureTime() {
